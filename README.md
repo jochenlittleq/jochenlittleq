@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jochenlittleq
-- 👀 I’m interested in ABAP
+- 👀 I’m interested in ABAP, music
 - 🌱 I’m currently learning ABAP
-- 📫 How to reach me via jochenlittleq@gmail.com
+- 📫 You can reach me via jochenlittleq@gmail.com
 
 <!---
 jochenlittleq/jochenlittleq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
