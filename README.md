@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jochenlittleq
-- 👀 I’m interested in ABAP, music
-- 🌱 I’m currently learning ABAP
+- 👀 I’m interested in ABAP, Python, music
+- 🌱 I’m currently learning ABAP and Python
 - 📫 You can reach me via jochenlittleq@gmail.com
 
 <!---
